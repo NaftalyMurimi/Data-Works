@@ -42,4 +42,26 @@ Here are 10 practical test questions based on the dataset:
 
 10. **Trend Prediction**: Based on historical data, predict the launch price of a new smartphone with 8GB RAM, a 108MP back camera, a 5000mAh battery, and a 6.7-inch screen. What would be a reasonable estimate?
 
+
+11. **Outlier Detection**: Identify any outliers in the dataset based on the launch price. What criteria would you use to detect and handle them?  
+
+12. **Market Share Analysis**: Determine which company has released the most smartphone models in the dataset. What does this indicate about their market presence?  
+
+13. **Yearly Analysis**: Find the year with the highest number of smartphone launches. What factors might have contributed to this peak?  
+
+14. **Price vs. Features**: Compare the average price of smartphones with different RAM sizes. How does RAM influence pricing?  
+
+15. **Battery Life Comparison**: Group smartphones by battery capacity range (e.g., <3000mAh, 3000-4000mAh, >4000mAh) and analyze their average launch price. Do phones with larger batteries tend to be more expensive?  
+
+16. **Screen Size Evolution**: Plot the trend of average screen size over the years. Do you notice an increase in smartphone screen sizes over time?  
+
+17. **Premium vs. Budget Phones**: Define a threshold for premium smartphones based on price and compare their average RAM, camera quality, and battery size with budget phones. What major differences do you find?  
+
+18. **Camera Specifications Impact on Price**: Analyze whether a higher back camera resolution correlates with a higher launch price. What conclusions can you draw?  
+
+19. **Regional Price Variation**: Select three different smartphone models and compare their launch prices in different countries. What factors could explain the price differences?  
+
+20. **Predictive Analysis**: Build a simple machine learning model using the dataset to predict the launch price of a smartphone based on its specifications. What features have the most significant impact on pricing?  
+
+Would you like **sample code** or a **detailed explanation** for any of these questions? 🚀
 Would you like me to provide sample code for any of these questions? 🚀
