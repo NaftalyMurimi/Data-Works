@@ -1,0 +1,45 @@
+About Dataset
+This dataset contains detailed specifications and official launch prices of various mobile phone models from different companies. It provides insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. The dataset includes key features such as RAM, camera specifications, battery capacity, processor details, and screen size.
+
+One important aspect of this dataset is the pricing information. The recorded prices represent the official launch prices of the mobile phones at the time they were first introduced in the market. Prices vary based on the country and the launch period, meaning older models reflect their original launch prices, while newer models include their most recent launch prices. This makes the dataset valuable for studying price trends over time and comparing smartphone affordability across different regions.
+
+Features:
+
+Company Name: The brand or manufacturer of the mobile phone.
+Model Name: The specific model of the smartphone.
+Mobile Weight: The weight of the mobile phone (in grams).
+RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+Front Camera: The resolution of the front (selfie) camera (in MP).
+Back Camera: The resolution of the primary rear camera (in MP).
+Processor: The chipset or processor used in the device.
+Battery Capacity: The battery size of the smartphone (in mAh).
+Screen Size: The display size of the smartphone (in inches).
+Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+Launched Year: The year the mobile phone was officially launched.
+
+
+
+Question 
+Here are 10 practical test questions based on the dataset:
+
+1. **Data Exploration**: Load the dataset into a DataFrame and display the first five rows. What insights can you gather about the structure and types of data present?
+
+2. **Data Cleaning**: Check for missing values in the dataset. Which columns contain missing values, and how would you handle them?
+
+3. **Statistical Analysis**: Calculate the average RAM size and battery capacity of all smartphones in the dataset. What is the mean RAM and battery capacity?
+
+4. **Filtering Data**: Write a query to filter out all smartphones launched in 2020 with a battery capacity of at least 4000 mAh and a screen size of 6.5 inches or more.
+
+5. **Comparing Price Trends**: Plot the average launch price of smartphones in India over the years. What trend do you observe?
+
+6. **Brand Analysis**: Identify the top three brands with the highest average back camera resolution. What are the results?
+
+7. **Feature Correlation**: Compute the correlation between RAM size and launch price. Does a higher RAM generally correlate with a higher price?
+
+8. **Processor Analysis**: Find the most commonly used processor among all smartphones. Which processor appears most frequently?
+
+9. **Price Comparison Across Regions**: Select a smartphone model and compare its launch price across all available countries. Which country had the highest and lowest launch price?
+
+10. **Trend Prediction**: Based on historical data, predict the launch price of a new smartphone with 8GB RAM, a 108MP back camera, a 5000mAh battery, and a 6.7-inch screen. What would be a reasonable estimate?
+
+Would you like me to provide sample code for any of these questions? 🚀
